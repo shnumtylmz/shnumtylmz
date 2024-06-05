@@ -4,8 +4,8 @@
 I am eager to delve deeper into the world of web development, starting with JavaScript to enhance the interactivity of my projects. Additionally, I plan to explore popular frameworks such as React.js and Vue.js, which are essential for building dynamic and responsive web applications.
 
 ## You can reach me :
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/şahin-umut-yılmaz-545646194) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.shnumtylmz@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/şahin-umut-yılmaz-545646194) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.shnumtylmz@gmail.com) 
 
 ### Tools that I can use
 
